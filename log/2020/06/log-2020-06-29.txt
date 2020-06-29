@@ -1,1 +1,2 @@
 2020-06-29 16:53:51[UTC -5] [ip] ::1 [location] VOTO [text] El votante con DNI: 72195723 ha emitido su voto.
+2020-06-29 17:04:04[UTC -5] [ip] ::1 [location] VOTO [text] El votante con DNI: 72195723 ha emitido su voto.
